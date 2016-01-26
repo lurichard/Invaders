@@ -32,7 +32,4 @@ MAY THE FORCE BE WITH YOU!!!! and have fun escaping
 
 ### ::To Run the Game::
 
-Download the firstGBAGame.gba file and run it on any GameBoyAdvance emulator.
-
-# GBA_Game_Invader
-# Invaders
+Download the firstGBAGame.gba file and run it on any GameBoyAdvance emulator. 
